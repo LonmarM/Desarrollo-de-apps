@@ -1,10 +1,10 @@
-name: procesador_calificaciones_ustabuca
-description: Mini-proyecto Exposicion Tema 1 - Llamado y Retorno y Flujo de Datos (Tubos y Filtros) - USTA Bucaramanga.
+name: inventario_alertas_ustabuca
+description: Mini-proyecto Exposicion Tema 2 - Centrado en Datos y Componentes Independientes (Inventario con Alertas) - USTA.
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
   flutter:
